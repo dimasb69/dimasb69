@@ -1,4 +1,4 @@
-<h2 align="center"> MomDontGo.Dev Projects </h2>
+<h2 align="center"> {MomDontGo.Dev} --  Projects </h2>
 
 <h1 align="center"> Hola, soy Dimas Brizuela </h1>
 <h3 align="center">IT Frelancer | Full Stack Developer </h3>
