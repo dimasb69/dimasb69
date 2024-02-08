@@ -1,6 +1,6 @@
-<h2 MomDontGo.Dev Projects </h2>
+<h2 align="center"> MomDontGo.Dev Projects </h2>
 
-<h1 align="center"> Hola, soy Dimas Brizuela ( {MomDontGo.Dev} ) </h1>
+<h1 align="center"> Hola, soy Dimas Brizuela </h1>
 <h3 align="center">IT Frelancer | Full Stack Developer </h3>
 <hr><br>
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
