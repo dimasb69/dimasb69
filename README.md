@@ -6,7 +6,7 @@
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
 	<br>
-	<h align="center>Actualmente soy Full Stack Developer en Flutter / Kotlin / Python</h>
+	<h2 align="center>Actualmente soy Full Stack Developer en Flutter / Kotlin / Python</h2>
 	<br>
 	Siempre ando en busca de conociemiento! | Y trabajando en proyectos privados personales y para Empresas
 	<br>
