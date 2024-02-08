@@ -42,7 +42,7 @@
 <h2 align="center">Conecta Conmigo:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/dimas-brizuela-653557b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dimas Brizuela" height="30" width="40" /></a>
-  <a href="https://momdontgo.dev" target="blank"><img align="center" src="https://momdontgo.dev/logo.jpg" alt="pagian web" height="30" width="40" /></a>
+  <a href="https://momdontgo.dev" target="blank"><img align="center" src="https://momdontgo.dev/logo.jpg" alt="mi pagian web" height="40" width="40" /></a>
   </p>
 <h3 align="center"><a href="mailto:dimas.brizuela@momdontgo.dev">📧 ¿Cómo localizarme? 📧 </a></h3>
 <h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">Y tambien por!</a></h3>
