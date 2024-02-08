@@ -45,7 +45,7 @@
   <a href="https://momdontgo.dev" target="blank"><img align="center" src="https://momdontgo.dev/logo.jpg" alt="pagian web" height="30" width="40" /></a>
   </p>
 <h3 align="center"><a href="mailto:dimas.brizuela@momdontgo.dev">📧 ¿Cómo localizarme? 📧 </a></h3>
-<h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">📧 Y tambien por! 📧 </a></h3>
+<h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">Y tambien por!</a></h3>
 <br><hr><br>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasb69&show_icons=true&locale=en&layout=compact" /> </p>
