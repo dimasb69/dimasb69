@@ -23,9 +23,9 @@ MomDontGo.Dev Projects
 <h2 align="center">Lenguajes y Herramientas:</h2>
 <div align="center"> 
   <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
-  <a title="Kotlin" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png width="40" height="40"/> </a> 
+  <a title="Kotlin" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="40" height="40"/> </a> 
   <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"  width="40" height="40"/> </a> 
-  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4 width="40" height="40"/> </a> 	
+  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" width="40" height="40"/> </a> 	
   <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>-->
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a 
