@@ -5,7 +5,7 @@
 <hr><br>
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
-	<br>
+	<br>align="center"
 	Actualmente soy Full Stack Developer en Flutter / Kotlin / Python
 	<br>
 	Siempre ando en busca de conociemiento! | Y trabajando en proyectos privados personales y para Empresas
