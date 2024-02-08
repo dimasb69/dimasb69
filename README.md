@@ -3,11 +3,6 @@ MomDontGo.Dev Projects
 <h1 align="center"> Hola, soy Dimas Brizuela ( {MomDontGo.Dev} ) </h1>
 <h3 align="center">IT Frelancer | Full Stack Developer </h3>
 <hr><br>
-<p align="right">
-	<img alt="sandra's visitors" src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=8c36db&style=flat&label=visitors" />
-	<img alt="sandra's followers" src="https://img.shields.io/github/followers/SandraMadarnas?color=blueviolet" />
-	<img alt="sandra's stars" src="https://img.shields.io/github/stars/SandraMadarnas?color=blueviolet" />
-</p>
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
 	<br>
@@ -27,10 +22,10 @@ MomDontGo.Dev Projects
 <br>
 <h2 align="center">Lenguajes y Herramientas:</h2>
 <div align="center"> 
-  <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer">img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
-  <a title="Kotlin" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png width="40" height="40"/> </a> 
-  <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer">img src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"  width="40" height="40"/> </a> 
-  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer">img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4 width="40" height="40"/> </a> 	
+  <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
+  <a title="Kotlin" href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png width="40" height="40"/> </a> 
+  <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"  width="40" height="40"/> </a> 
+  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4 width="40" height="40"/> </a> 	
   <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>-->
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a 
@@ -53,6 +48,6 @@ MomDontGo.Dev Projects
 <h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">📧 Y tambien por! 📧 </a></h3>
 <br><hr><br>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasb69&show_icons=true&locale=en&layout=compact" alt="dimasb69" /> </p>
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=dimasb69&show_icons=true&locale=en" alt="dimasb69" /> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasb69&show_icons=true&locale=en&layout=compact" /> </p>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=dimasb69&show_icons=true&locale=en" /> </p>
 
