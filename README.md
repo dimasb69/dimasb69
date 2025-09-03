@@ -6,10 +6,10 @@
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
 	<br>
-	<h2 align="center">Soy Profecional Informático desde 2002 y estoy Disponible para proyectos como desarrollador y especialista en TI
+	<h2 align="Justify">Soy Profecional Informático desde 2002 y estoy Disponible para proyectos como desarrollador y especialista en TI
 
 Ofrezco servicios profesionales en análisis de datos, ciberseguridad y automatización de procesos utilizando Python. </h2>
-<h2 Cuento con experiencia avanzada en:
+<h2 align="Justify> Cuento con experiencia avanzada en:
 
 1- Redes: Configuración y mantenimiento de redes, CCTV y soluciones de conectividad.
 
