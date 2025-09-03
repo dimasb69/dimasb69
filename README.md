@@ -9,7 +9,7 @@
 	<h2 align="justify">Soy Profecional Informático desde 2002 y estoy Disponible para proyectos como desarrollador y especialista en TI
 
 Ofrezco servicios profesionales en análisis de datos, ciberseguridad y automatización de procesos utilizando Python. </h2>
-<h2 align="justify> Cuento con experiencia avanzada en:
+Cuento con experiencia avanzada en:
 
 1- Redes: Configuración y mantenimiento de redes, CCTV y soluciones de conectividad.
 
@@ -25,9 +25,9 @@ Además, estoy disponible como desarrollador full-stack para proyectos en:
 
 3- Multiplataforma: Aplicaciones para Linux, Mac y PC usando Flutter y Python.
 
-Tambien poseo conocimientos básicos e intermedios en Node.js, SQL, NoSQL, Docker, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas </h2>
+Tambien poseo conocimientos básicos e intermedios en Node.js, SQL, NoSQL, Docker, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas
 
-</br>
+
 	
 	
 </p>
