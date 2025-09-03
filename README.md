@@ -6,7 +6,8 @@
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
 	<br>
-	<h2 align="justify">Soy Profecional Informático desde 2002 y estoy Disponible para proyectos como Desarrollador y Especialista en IT, Análisis de Datos, Ciberseguridad y Automatización de procesos</h2>
+	<h2 align="justify">Soy Profecional Informático desde 2002.
+Eestoy Disponible para proyectos como Desarrollador y Especialista en IT, Análisis de Datos, Ciberseguridad y Automatización de procesos</h2>
 Cuento con experiencia avanzada en:
 
 1- Redes: Configuración y mantenimiento de redes, CCTV y soluciones de conectividad.
