@@ -23,7 +23,7 @@
 <h2 align="center">Lenguajes y Herramientas:</h2>
 <div align="center"> 
   <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
-  <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://go.dev/images/go-logo-white.svg" width="40" height="40"/> </a> 
+  <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://go.dev/images/go-logo-white.svg" width="40" height="80"/> </a> 
   <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"  width="40" height="40"/> </a> 
   <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" width="40" height="40"/> </a> 	
   <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
