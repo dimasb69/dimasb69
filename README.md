@@ -6,17 +6,28 @@
  <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
 <p>
 	<br>
-	<h2 align="center">Actualmente estoy disponible para Full Stack Developer en Flutter / Python</h2>
-	<br>
-	Siempre ando en busca de conociemiento! | Y trabajando en proyectos privados personales y para Empresas
-	<br>
-	Desarrollo aplicaciones que ayuden a optimizar funciones o procesos, sea con datos en la nube o servidores de datos locales
-	<br>
-	En IT, doy soporte de mantenimiento de equipos y servidores, redes, conexiones VPN, Apps privadas con Docler
-	<br>
-	Me encuentro estudiando Cyberseguridad en Cursera solo para ampliar los conocimientos y usar Python para analisis de datos
-	<br>
-	Soy autodicata, responsable, sociable, con ganas de siempre aprender algo nuevo sea de sesarrollo o del area de IT
+	<h2 align="center">Soy Profecional Informático desde 2002 y estoy Disponible para proyectos como desarrollador y especialista en TI
+
+Ofrezco servicios profesionales en análisis de datos, ciberseguridad y automatización de procesos utilizando Python.
+
+Cuento con experiencia avanzada en:
+
+1- Redes: Configuración y mantenimiento de redes, CCTV y soluciones de conectividad.
+
+2- Mantenimiento correctivo: Equipos PC (Linux, Windows), servidores y Mac.
+
+3- Implementación de servidores: Gestión de bases de datos, respaldos, nube privada (OwnCloud, NextCloud) y VPN (ZeroTier, Radmin, WireGuard).
+
+Además, estoy disponible como desarrollador full-stack para proyectos en:
+
+1- Android: Desarrollo de aplicaciones con Flutter.
+
+2- Web: Desarrollo con Flutter y Python.
+
+3- Multiplataforma: Aplicaciones para Linux, Mac y PC usando Flutter y Python.
+
+Tambien poseo conocimientos básicos e intermedios en Node.js, SQL, NoSQL, Docker, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas</h2>
+	
 	
 </p>
 <br>
