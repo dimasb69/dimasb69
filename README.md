@@ -23,7 +23,7 @@ Además, estoy disponible como desarrollador full-stack para proyectos en:
 
 3- Multiplataforma: Aplicaciones para Linux, Mac y PC usando Flutter y Python.
 
-Tambien poseo conocimientos básicos e intermedios en Node.js, SQL, NoSQL, Docker, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas
+Tambien poseo conocimientos básicos e intermedios en Go, Node.js, SQL, NoSQL, Docker, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas
 
 
 	
