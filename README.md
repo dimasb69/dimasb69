@@ -59,6 +59,5 @@ Tambien poseo conocimientos básicos e intermedios en Go, Node.js, SQL, NoSQL, D
 <h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">phone</a></h3>
 <br><hr><br>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasb69&show_icons=true&locale=en&layout=compact" /> </p>
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=dimasb69&show_icons=true&locale=en" /> </p>
+
 
