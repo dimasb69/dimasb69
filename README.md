@@ -3,7 +3,6 @@
 <h1 align="center"> Hola, soy Dimas Brizuela </h1>
 <h3 align="center">IT Frelancer | Full Stack Developer </h3>
 <hr><br>
-<!<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>>
 <p>
 	<br>
 	<h2 align="center">Soy Profecional Informático desde 2002.</h2>
