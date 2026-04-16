@@ -43,6 +43,7 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 <h3 align="center"><a href="mailto:dimas.brizuela@momdontgo.dev">📧 e-mail 📧 </a></h3>
 
 <h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">phone</a></h3>
+</p>
 <br><hr><br>
 
 
