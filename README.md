@@ -36,9 +36,9 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 <br>
 <h2 align="center">Contactame:</h2>
 <p align="center">
-  <h3 align="center"><a href="https://www.linkedin.com/in/dimas-brizuela-653557b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dimas Brizuela" height="30" width="40" /></a></h3>
-	
-  <h3 align="center"><a href="https://momdontgo.dev" target="blank"><img align="center" src="https://momdontgo.dev/assets/assets/Logo_rounded_720.png" alt="mi pagian web" height="40" width="40" /></a></h3>
+<a href="https://www.linkedin.com/in/dimas-brizuela-653557b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dimas Brizuela" height="30" width="40" /> </a>
+
+<a href="https://momdontgo.dev" target="blank"><img align="center" src="https://momdontgo.dev/assets/assets/Logo_rounded_720.png" alt="mi pagian web" height="40" width="40" /></a>
   
 <h3 align="center"><a href="mailto:dimas.brizuela@momdontgo.dev">📧 e-mail 📧 </a></h3>
 
