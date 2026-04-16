@@ -23,9 +23,9 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 	
   <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nMdWFfHm/Go.png" width="40" height="40"/> </a> 
   
-  <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"  width="40" height="40"/> </a> 
+  <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"  width="40" height="40"/> </a>
   
-  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" width="40" height="40"/> </a> 	
+  <a title="Reflex" href="https://reflex.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" width="40" height="40"/> </a> 
   
   <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   
