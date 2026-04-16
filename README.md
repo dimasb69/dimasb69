@@ -41,11 +41,11 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 
 	
 <a href="https://momdontgo.dev" target="blank"><img src="https://momdontgo.dev/assets/assets/Logo_rounded_720.png" alt="mi pagian web" height="40" width="40" /> </a>
-
+</div>
 <h3 align="center"><a href="mailto:dimas.brizuela@momdontgo.dev">📧 e-mail 📧 </a></h3>
 
 <h3 align="center"><a href="https://api.whatsapp.com/send?phone=593963907578&text=Hola+me+gustar%C3%ADa+contactarte+para+conocer+mas+de+lo+que+haces">phone</a></h3>
-</div>
+
 <br><hr><br>
 
 
