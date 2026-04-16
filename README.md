@@ -38,6 +38,7 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 <p align="center">
 	
 <div align="center"><a href="https://www.linkedin.com/in/dimas-brizuela" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dimas Brizuela" height="30" width="40" /> </a>
+
 	
 <a href="https://momdontgo.dev" target="blank"><img src="https://momdontgo.dev/assets/assets/Logo_rounded_720.png" alt="mi pagian web" height="40" width="40" /> </a>
 
