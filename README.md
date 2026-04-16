@@ -7,11 +7,7 @@
 <p>
 	<br>
 	<h2 align="center">Soy Profecional Informático desde 2002.</h2>
-	<h2 align="justify">Especialista en TI con trayectoria de más de dos décadas
-		Enfocado en la implementación de soluciones de infraestructura robustas y desarrollo de software escalable. Mi expertise incluye la automatización de procesos mediante Python, análisis de datos y ciberseguridad.
-Mi experiencia técnica se extiende a la gestión de redes (configuración y mantenimiento), la administración de servidores y la implementación de soluciones en la nube (Cloud/VPN). Domino entornos operativos como Linux, Windows y macOS, asegurando la estabilidad de los sistemas.
-		
-Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicaciones multiplataforma (Android, Web). Mi conocimiento en Go, Node.js, SQL, NoSQL y Docker me permite diseñar arquitecturas eficientes y adaptarme a cualquier requerimiento tecnológico.
+	<h2 align="justify">Profesional de TI con más de 20 años de experiencia en la creación y optimización de soluciones tecnológicas. Especializado en automatización (Python), ciberseguridad y análisis de datos. Mi experiencia abarca desde la gestión de redes y servidores (Linux/Windows/Mac) hasta el desarrollo Full-Stack con Flutter y Python. Domino tecnologías clave como Go, Node.js, SQL y Docker, permitiéndome entregar soluciones robustas y adaptables a cualquier entorno empresarial.
 	
 	
 </p>
