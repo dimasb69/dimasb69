@@ -7,32 +7,17 @@
 <p>
 	<br>
 	<h2 align="center">Soy Profecional Informático desde 2002.</h2>
-	<h2 align="justify">Estoy Disponible para proyectos como Desarrollador y Especialista en IT, Análisis de Datos, Ciberseguridad y Automatización de procesos</h2>
-Cuento con experiencia avanzada en:
-
-1- Redes: Configuración y mantenimiento de redes, CCTV y soluciones de conectividad.
-
-2- Mantenimiento correctivo: Equipos PC (Linux, Windows), servidores y Mac.
-
-3- Implementación de servidores: Gestión de bases de datos, respaldos, nube privada (OwnCloud, NextCloud) y VPN (ZeroTier, Radmin, WireGuard).
-
-Además, estoy disponible como desarrollador full-stack para proyectos en:
-
-1- Android: Desarrollo de aplicaciones con Flutter.
-
-2- Web: Desarrollo con Flutter y Python.
-
-3- Multiplataforma: Aplicaciones para Linux, Mac y PC usando Flutter y Python.
-
-Tambien poseo conocimientos básicos e intermedios en Go, Node.js, SQL, NoSQL, Docker, N8N, OMV, Proxmox Ve, NextCloud, Power BI, ETL y AI, lo que me permite adaptarme a diversos entornos y necesidades tecnológicas
-
-
+	<h2 align="justify">Especialista en TI con trayectoria de más de dos décadas
+		Enfocado en la implementación de soluciones de infraestructura robustas y desarrollo de software escalable. Mi expertise incluye la automatización de procesos mediante Python, análisis de datos y ciberseguridad.
+Mi experiencia técnica se extiende a la gestión de redes (configuración y mantenimiento), la administración de servidores y la implementación de soluciones en la nube (Cloud/VPN). Domino entornos operativos como Linux, Windows y macOS, asegurando la estabilidad de los sistemas.
+		
+Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicaciones multiplataforma (Android, Web). Mi conocimiento en Go, Node.js, SQL, NoSQL y Docker me permite diseñar arquitecturas eficientes y adaptarme a cualquier requerimiento tecnológico.
 	
 	
 </p>
 <br>
 <h2 align="center">Lenguajes y Herramientas:</h2>
-<div align="center"> 
+<div align=""> 
   <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
   <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nMdWFfHm/Go.png" width="40" height="40"/> </a> 
   <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"  width="40" height="40"/> </a> 
