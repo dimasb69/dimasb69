@@ -18,7 +18,8 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
 <br>
 <h2 align="center">Lenguajes y Herramientas:</h2>
 <div align="center"> 
-  <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45" height="45"/> </a>
+	
+  <a title="Flutter" href="https://flutter.dev/"" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter"width="45"height="45"/></a>
 	
   <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nMdWFfHm/Go.png" width="40" height="40"/> </a> 
   
@@ -29,14 +30,7 @@ Como desarrollador Full-Stack, utilizo Flutter y Python para construir aplicacio
   <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
   
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   
-  </a>
-  
-  
-  
-  
-  
-  
+ 
   
 </div>
 <br>
