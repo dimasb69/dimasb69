@@ -9,7 +9,6 @@
 	<h2 align="justify">Profesional de TI con más de 20 años de experiencia en la creación y optimización de soluciones tecnológicas. Especializado en automatización (Python), ciberseguridad y análisis de datos. Mi experiencia abarca desde la gestión de redes y servidores (Linux/Windows/Mac) hasta el desarrollo Full-Stack con Flutter y Python. Domino tecnologías clave como Go, Node.js, SQL y Docker, permitiéndome entregar soluciones robustas y adaptables a cualquier entorno empresarial.</h2>
 	<br>
 </p>
-
 <h2 align="center">Lenguajes y Herramientas:</h2>
 <div align="center"> 
 	
