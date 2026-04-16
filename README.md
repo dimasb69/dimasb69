@@ -3,10 +3,11 @@
 <h1 align="center"> Hola, soy Dimas Brizuela </h1>
 <h3 align="center">IT Frelancer | Full Stack Developer </h3>
 <hr><br>
- <!--<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>-->
+<!<p align="left"><img src="https://komarev.com/ghpvc/?username=dimasb69&color=red&style=flat"></p>>
 <p>
 	<br>
 	<h2 align="center">Soy Profecional Informático desde 2002.</h2>
+	
 	<h2 align="justify">Profesional de TI con más de 20 años de experiencia en la creación y optimización de soluciones tecnológicas. Especializado en automatización (Python), ciberseguridad y análisis de datos. Mi experiencia abarca desde la gestión de redes y servidores (Linux/Windows/Mac) hasta el desarrollo Full-Stack con Flutter y Python. Domino tecnologías clave como Go, Node.js, SQL y Docker, permitiéndome entregar soluciones robustas y adaptables a cualquier entorno empresarial.
 	
 	
