@@ -6,7 +6,23 @@
 <p>
 	<br>
 	<h2 align="center">Soy Profecional Informático desde 2002.</h2>
-	<h2 align="justify">Profesional de TI con más de 20 años de experiencia en la creación y optimización de soluciones tecnológicas. Especializado en automatización (Python), ciberseguridad y análisis de datos. Mi experiencia abarca desde la gestión de redes y servidores (Linux/Windows/Mac) hasta el desarrollo Full-Stack con Flutter y Python. Domino tecnologías clave como Go, Node.js, SQL y Docker, permitiéndome entregar soluciones robustas y adaptables a cualquier entorno empresarial.</h2>
+	<h2 align="justify">Soy un apasionado Ingeniero de Software Full-Stack y Especialista en Infraestructura TI con más de 20 años de trayectoria híbrida uniendo lo mejor del desarrollo de software, la automatización, la administración de sistemas y la ciberseguridad. 
+
+Mi enfoque principal está en el desarrollo de aplicaciones móviles y web "Edge/Standalone" de alta privacidad (sin dependencia de servidores/nube) con Flutter y Python, además del despliegue de infraestructuras robustas autogestionadas (Self-Hosted).
+
+🚀 ¿Qué me diferencia?
+* Ecosistema Linux Avanzado: Llevo más de 6 años usando Linux (Ubuntu/Debian, Kernel 7.0) como mi entorno diario de producción, pruebas y desarrollo.
+* Arquitecturas Homelab & Virtualización: Administro servidores propios basados en Proxmox VE, orquestando entornos dockerizados con herramientas como N8N, Nginx Proxy, Appwrite, VaultWarden y NextCloud, interconectados mediante VPNs seguras (Tailscale/ZeroTier).
+* IA y Metodologías Modernas: Trabajo bajo metodologías SDD (Software Driven Development), Livecoding y cuento con experiencia como Analista de Prompts entrenando y alineando Modelos de Lenguaje Grande (LLMs).
+* Efectividad Comprobada: Tengo 4 aplicaciones nativas publicadas en la Google Play Store que operan de forma 100% offline y segura, además de proyectos de código abierto (Open Source) en GitHub que promueven la accesibilidad digital.
+
+🛠️ Mi Stack Tecnológico Principal:
+* Lenguajes: Python (FastAPI, Flet, Reflex, OOP), Flutter / Dart, Git. (Practicando activamente: Rust, Go).
+* DevOps & Infraestructura: Docker, Proxmox VE, SSH, VPN Mesh (Tailscale/ZeroTier), Nginx, Linux SysAdmin.
+* Bases de Datos & Backend: SQLite/sqflite, PostgreSQL, MariaDB, Appwrite, Supabase, Firebase.
+* Data & Analytics: Power BI, Lenguaje DAX, ETL.
+
+Me destaco por ser un profesional profundamente autodidacta con una alta capacidad para adoptar tecnologías emergentes a gran velocidad y solucionar problemas lógicos complejos desde la infraestructura hasta el código final.</h2>
 	<br>
 </p>
 <h2 align="center">Lenguajes y Herramientas:</h2>
@@ -14,7 +30,7 @@
 	
   <a title="Flutter" href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/fit/c/36/36/1*5-aoK8IBmXve5whBQM90GA.png" width="45" height="45"/> </a>
 	
-  <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nMdWFfHm/Go.png" width="40" height="40"/> </a> 
+  <a title="Go" href="https://go.dev/ref/spec" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png" width="40" height="40"/> </a> 
   
   <a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png"  width="40" height="40"/> </a>
   
